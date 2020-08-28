@@ -1,0 +1,66 @@
+/*-----------------------SETTINGS-----------------*/
+
+
+    li a, a  {
+        text-decoration: none;
+    }
+
+    li a , a{
+        font-family: Rubik,sans-serif;
+        padding-right: 30px;
+     color:black;
+    }
+
+     a:hover{
+     color:white;
+      text-decoration: underline;
+    }
+
+
+    h1,h2{
+     font-family: Expletus sans, cursive ;
+    }
+    h1{
+       font-size: 96px;
+       justify-content: center;
+    }
+
+
+
+/*----------------------GENERIC--------------------*/
+*, *::before ,*::after {
+    box-sizing: border-box;
+    width:1400px;
+
+}
+
+
+
+
+
+
+/*----------------------ELEMENTS--------------------*/
+
+
+.conteneur .carte{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 160px;
+}
+nav ul{
+    display:flex;
+    justify-content: flex-end;
+    padding-right: 170px;
+}
+
+
+
+/*----------------------COMPONENTS------------------*/
+
+
+
+
+
+
+/*----------------------UTILITIES--------------------*/
