@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ddb2299-d172-4478-8e92-d639d4fc9a2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +83,7 @@
       <workItem from="1598625703718" duration="6870000" />
       <workItem from="1598635388650" duration="12200000" />
       <workItem from="1598902748423" duration="8653000" />
-      <workItem from="1598960122127" duration="2310000" />
+      <workItem from="1598960122127" duration="6191000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout styles et Ordre ICSS">
       <created>1598635735073</created>
@@ -73,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598635735073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remodification du CSS.">
+      <created>1598963157808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598963157808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Remodification du CSS.">
+      <created>1598963168562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598963168562</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajoute normalize" />
     <MESSAGE value="Ajout styles et Ordre ICSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout styles et Ordre ICSS" />
+    <MESSAGE value="Remodification du CSS." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remodification du CSS." />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1598638714632">
@@ -176,5 +210,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598643306280" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598963058024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598963058024" />
   </component>
 </project>

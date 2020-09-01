@@ -19,9 +19,13 @@ li{
 }
 
 
-a:hover{
+li a:hover{
     color:white;
     text-decoration: underline;
+}
+.carte-footer a:hover{
+    color:white;
+    text-decoration: none;
 }
 
 h1,h2{
@@ -37,6 +41,9 @@ h2{
     font-size: 64px;
 }
 
+.carte-footer span{
+   color: #E64A19;
+}
 
 
 
@@ -105,6 +112,7 @@ padding: 88px 0;
  .information .conteneur {
      display: flex;
      justify-content: space-between;
+     margin-top: 32px;
 }
 
   .information .content  {
@@ -114,6 +122,8 @@ padding: 88px 0;
   .carte{
      width:360px;
       height:524px;
+      display: flex;
+      flex-direction:column;
     background-color:#f0f0f0;
  }
 
@@ -129,8 +139,51 @@ background-color: #E34E26;
  height:200px;
 }
 .carte:nth-child(2) header{
-    background-color: #E34E26;
+    background-color:#0270BB;
     width:360px;
     height:200px;
+}
+.carte:nth-child(3) header{
+    background-color:#F8DC3D;
+    width:360px;
+    height:200px;
+}
+.conteneur .content{
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding:20px;
+    flex-grow: 1;
+}
+.carte-footer a {
+width:95px;
+height:35px;
+    padding: 10px  20px;
+    border-radius:5px;
+}
+.conteneur .carte-footer .bouton{
+
+background-color:#FFC107;
+    border:1px solid  #E64A19 ;
+}
+.conteneur .carte-footer .bouton:hover{
+    background-color:#E64A19;
+    border:1px solid  #E64A19;
+}
+.carte-footer span
+{
+margin-left: 100px;
+}
+.footer-principal{
+ font-size:14px;
+color:white;
+   width: 1440px;
+   height:60px;
+    background-color:#E64A19;
+line-height:60px;
+margin-top:32px;
+}
+.footer-principal h3{
+    margin-left: 170px;
 }
 /*----------------------UTILITIES--------------------*/
